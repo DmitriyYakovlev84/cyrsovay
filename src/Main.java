@@ -6,7 +6,7 @@ public class Main {
         employees[2] = new Employee("Сушко  Михаил Семенович", 3, 50900f);
         employees[3] = new Employee("Бегунов Максим Анатольевич", 3, 40500f);
         employees[4] = new Employee("Серебрякова Екатерина Андреевна", 4, 45820f);
-       printEmployees();
+       printEmployees() ;
         System.out.println("====================================");
         System.out.println("Сумма зарплат : " + sum());
         System.out.println("====================================");
