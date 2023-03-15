@@ -7,7 +7,7 @@ public class Employee {
     private int department;
     private int salary;
 
-    pablic Employee(String firstName,String middleName, String lastName, int department, int salary) {
+    pablic Employee(String firstName,String  middleName, String lastName, int department, int salary) {
         this.id = idGenerator++;
         this.firstName = firstName;
         this.middleName = middleName;
