@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         employees[0] = new Employee("Петушкова Марина Сергеевна", 1, 35700f);
         employees[1] = new Employee("Горелых Петр Васильевич", 2, 41850f);
-        employees[2] = new Employee("Сушко Михаил Семенович", 3, 50900f);
+        employees[2] = new Employee("Сушко  Михаил Семенович", 3, 50900f);
         employees[3] = new Employee("Бегунов Максим Анатольевич", 3, 40500f);
         employees[4] = new Employee("Серебрякова Екатерина Андреевна", 4, 45820f);
        printEmployees();
